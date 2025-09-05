@@ -7,7 +7,7 @@
 5. Select the `Sink` repository and use the following build and deploy commands:
    - **Build command**: `pnpm run build` or `npm run build`
    - **Deploy command**: `npx wrangler deploy`
-
+ 
 6. Save and deploy the project.
 7. After deployment, go to **Settings** -> **Variables and Secrets** -> **Add**, and configure the following environment variables:
    - `NUXT_SITE_TOKEN`: Must be at least **8** characters long. This token grants access to your dashboard.
