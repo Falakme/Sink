@@ -7,7 +7,7 @@
     src="https://trendshift.io/api/badge/repositories/10421"
     alt="ccbikai/Sink | Trendshift"
     width="250"
-    height="55"
+    height="55" 
   />
 </a>
 <a href="https://news.ycombinator.com/item?id=40843683" target="_blank">
